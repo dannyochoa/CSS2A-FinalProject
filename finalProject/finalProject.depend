@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1493747523 source:c:\users\ochoa\desktop\css2aproject\map.cpp
+	"map.h"
+
+1493419175 c:\users\ochoa\desktop\css2aproject\map.h
+	<SFML/Graphics.hpp>
+
+1494190023 source:c:\users\ochoa\desktop\css2aproject\vehicle.cpp
+	"Vehicle.h"
+
+1494052227 c:\users\ochoa\desktop\css2aproject\vehicle.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1494627739 source:c:\users\ochoa\desktop\css2aproject\finalproject\driver.cpp
+	<SFML/Graphics.hpp>
+	<cctype>
+	<iostream>
+	"map.h"
+	"Vehicle.h"
+	"Upgrade.h"
+	<string>
+	<sstream>
+	<cstdlib>
+
+1494456969 c:\users\ochoa\desktop\css2aproject\finalproject\upgrade.h
+
+1494627563 source:c:\users\ochoa\desktop\css2aproject\finalproject\upgrade.cpp
+	"Upgrade.h"
+
+1494542256 c:\users\ochoa\desktop\css2aproject\finalproject\map.h
+	<SFML/Graphics.hpp>
+
+1494627563 c:\users\ochoa\desktop\css2aproject\finalproject\vehicle.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1494627563 source:c:\users\ochoa\desktop\css2aproject\finalproject\map.cpp
+	"map.h"
+
+1494627563 source:c:\users\ochoa\desktop\css2aproject\finalproject\vehicle.cpp
+	"Vehicle.h"
+
